@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 0.9999789473529757
+DNSRecord:
+  drift_status: false
+  p_value: 0.9999949658648258
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.8975173959758174
+Favicon:
+  drift_status: false
+  p_value: 0.9997260890640964
+Google_Index:
+  drift_status: false
+  p_value: 0.9999934998670769
+HTTPS_token:
+  drift_status: false
+  p_value: 1.0
+Iframe:
+  drift_status: false
+  p_value: 0.9999999999997913
+Links_in_tags:
+  drift_status: false
+  p_value: 0.787441848048418
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.6750734289030461
+Page_Rank:
+  drift_status: false
+  p_value: 0.9608720669231505
+Prefix_Suffix:
+  drift_status: false
+  p_value: 0.9983122730303212
+Redirect:
+  drift_status: false
+  p_value: 1.0
+Request_URL:
+  drift_status: false
+  p_value: 0.5244512598135332
+Result:
+  drift_status: false
+  p_value: 0.9999999999975706
+RightClick:
+  drift_status: false
+  p_value: 1.0
+SFH:
+  drift_status: false
+  p_value: 0.9930771198401778
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.9371808063360356
+Shortining_Service:
+  drift_status: false
+  p_value: 0.9999983240636093
+Statistical_report:
+  drift_status: false
+  p_value: 1.0
+Submitting_to_email:
+  drift_status: false
+  p_value: 0.9999738669295231
+URL_Length:
+  drift_status: false
+  p_value: 0.9999865833269358
+URL_of_Anchor:
+  drift_status: false
+  p_value: 1.0
+age_of_domain:
+  drift_status: false
+  p_value: 0.9986526587955213
+double_slash_redirecting:
+  drift_status: false
+  p_value: 1.0
+having_At_Symbol:
+  drift_status: false
+  p_value: 1.0
+having_IP_Address:
+  drift_status: false
+  p_value: 0.9999999999206907
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.9038053517606119
+on_mouseover:
+  drift_status: false
+  p_value: 1.0
+popUpWidnow:
+  drift_status: false
+  p_value: 0.9999999985868919
+port:
+  drift_status: false
+  p_value: 0.9999999999999998
+web_traffic:
+  drift_status: false
+  p_value: 0.9826612275642381

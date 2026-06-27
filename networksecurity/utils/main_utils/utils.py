@@ -6,7 +6,6 @@ import os, sys
 import numpy as np
 import pandas as pd
 import pickle
-import dill
 
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import r2_score
